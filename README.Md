@@ -12,6 +12,7 @@
  ## THE PROJECT LINK
 
   You can find my project on 
+  * https://adosamjeshi.github.io/PIZZA/
 ## CONTACT INFO
 
 adosamjeshi@gmail.com
